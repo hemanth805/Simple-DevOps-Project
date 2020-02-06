@@ -13,7 +13,7 @@
     kubectl get service -o wide
     ```
 	
-1. Access application suing service IP
+1. Access application using service IP
    ```sh
    wget <kubernetes-Master-IP>:31200
    ```
